@@ -4,3 +4,4 @@ __pycache__/
 .ipynb_checkpoints/
 vit-weather-lora/
 weather_raw/.cache/
+mlruns/
